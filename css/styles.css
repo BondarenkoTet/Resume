@@ -68,11 +68,10 @@ margin-bottom: 7px;
     margin-right: 10px;
 }
 .icon-git {
-    width: 30px;
-    height: 30px;
+    width: 26px;
+    height: 26px;
     fill: var(--main-text-color);
-    /* position: relative;
-    right: 40px; */
+    margin-right: 10px;
 }
 .link {
 color: var(--second-title-color)
@@ -125,9 +124,7 @@ padding-left: 50px;
     color: var(--main-text-color);
     margin-bottom: 10px;  
 }
-/* .project-list{
-    margin-top: 15px;
-} */
+
 .project{
     font-size: 22px;
     margin-left: 10px;
@@ -155,6 +152,13 @@ padding-left: 50px;
     font-weight: 700;
     line-height: var(--typical-lh);
     color: var(--main-text-color);
-    /* margin-bottom: 5px;  */
     margin-top: 15px;
+}
+.link-letter{
+    font-size: 26px;
+    font-weight: 400;
+    font-size: 40;
+    color: var(--main-text-color);
+    margin-left: 620px;
+    
 }
