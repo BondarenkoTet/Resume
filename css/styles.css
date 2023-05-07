@@ -21,7 +21,7 @@ ul {
     } 
 
 .container {
-    width: 1250px;
+    width: 1200px;
     margin: 0 auto; 
     padding-left: 15px; 
     padding-right: 15px;
@@ -67,12 +67,12 @@ margin-bottom: 7px;
     fill: var(--second-text-color);
     margin-right: 10px;
 }
-.icon-git {
+/* .icon-git {
     width: 26px;
     height: 26px;
     fill: var(--main-text-color);
     margin-right: 10px;
-}
+} */
 .link {
 color: var(--second-title-color)
 
